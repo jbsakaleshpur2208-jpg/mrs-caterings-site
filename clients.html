@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Clients | MRS Caterings</title>
+<meta name="description" content="Hear from the families and institutions MRS Caterings has served. 100% recommend on Facebook.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Jost:wght@300;400;500&family=Noto+Sans+Tamil:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/site.css">
+</head><body>
+<div id="site-header"></div>
+
+<section class="page-hero">
+  <div class="bg" style="background-image:url(assets/poster/r08.jpg)"></div>
+  <div class="wrap">
+    <div class="crumbs"><a href="index.html">Home</a> / Clients</div>
+    <h1>Hear from <em>our clients</em></h1>
+    <p class="lead">100% of our 24 reviewers on Facebook recommend us.</p>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <p class="quote rv">"Behind every grand feast is passion, precision, and personal care."<cite>The MRS Caterings promise</cite></p>
+    <div class="rowv rv" id="voiceRow" style="display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin-top:56px">
+      <div class="reel" data-open="assets/video/r08.mp4"><img src="assets/poster/r08.jpg" alt="Client testimonial" loading="lazy"><div class="pl"></div><span>Happy clients</span></div>
+      <div class="reel" data-open="assets/video/r09.mp4"><img src="assets/poster/r09.jpg" alt="Client testimonial" loading="lazy"><div class="pl"></div><span>Client moments</span></div>
+      <div class="reel" data-open="assets/video/r06.mp4"><img src="assets/poster/r06.jpg" alt="Client testimonial" loading="lazy"><div class="pl"></div><span>At the feast</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="services">
+  <div class="wrap">
+    <div class="head rv"><div><div class="eyebrow">Trusted by</div><h2 class="title">Weddings, colleges &amp; <em>corporate events</em></h2></div></div>
+    <div class="cards">
+      <article class="card rv"><img src="assets/poster/r01.jpg" alt="" loading="lazy"><div class="tx"><h3>Family weddings</h3><p>Muhurtham to reception.</p></div></article>
+      <article class="card rv"><img src="assets/poster/r05.jpg" alt="" loading="lazy"><div class="tx"><h3>Temple &amp; venue events</h3><p>Traditional feasts on location.</p></div></article>
+      <article class="card rv"><img src="assets/poster/r09.jpg" alt="" loading="lazy"><div class="tx"><h3>Kumaraguru Institute of Agriculture</h3><p>Opening ceremony catering.</p></div></article>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="head rv"><div><div class="eyebrow">Hosted</div><h2 class="title">Guests of <em>note</em></h2></div>
+      <p class="lead">Public figures, creators and institutions we have had the honour of hosting.</p></div>
+    <div class="hosted rv">
+      <div><b>Dr. Sowmiya Anbumani</b><span>Political leader and social activist</span></div>
+      <div><b>Sathya Sabarish (Aaru Kutty)</b><span>Digital creator</span></div>
+      <div><b>Late G. Marimuthu</b><span>Actor and director</span></div>
+      <div><b>Cheran Saravanan</b><span>Media personality</span></div>
+      <div><b>Bharani Kumar</b><span>Saran Solar</span></div>
+      <div><b>Kumaraguru Institute of Agriculture</b><span>Opening ceremony</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-band"><div class="wrap rv">
+  <h2 class="title">Be our next <em>happy client</em></h2>
+  <a class="btn solid" href="contact.html">Book your date</a>
+</div></section>
+
+<div id="site-footer"></div>
+<script src="js/site.js"></script>
+<script>
+document.querySelectorAll('[data-open]').forEach(el=>el.addEventListener('click',()=>{
+  document.getElementById('modalBody').innerHTML='<video controls autoplay playsinline src="'+el.dataset.open+'"></video>';
+  document.getElementById('modal').classList.add('on');
+}));
+</script>
+</body></html>
