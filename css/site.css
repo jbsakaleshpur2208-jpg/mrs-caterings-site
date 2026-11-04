@@ -345,3 +345,11 @@ body{font-weight:400}
 .founder .pics .kv figcaption{position:absolute;left:0;right:0;bottom:0;padding:44px 18px 16px;background:linear-gradient(transparent,rgba(11,9,7,.92));display:flex;flex-direction:column}
 .kv figcaption b{font-family:var(--serif);font-weight:500;font-size:26px;color:var(--cream)}
 .kv figcaption span{font-size:11px;letter-spacing:.24em;text-transform:uppercase;color:var(--gold-hi)}
+
+/* tagline: "Passionate to delight" */
+.hero-tag{margin-bottom:18px;font-size:13px;letter-spacing:.34em;color:var(--gold-hi)}
+.tagline{padding:clamp(70px,9vw,120px) 0;text-align:center;background:var(--ink-2);border-block:1px solid rgba(201,164,92,.2)}
+.tagline .tq{font-family:var(--serif);font-weight:500;font-size:clamp(44px,8vw,104px);line-height:1.02;margin:18px 0 22px;color:var(--cream)}
+.tagline .tq em{color:var(--gold-hi);font-weight:400}
+.tagline .lead{margin:0 auto;max-width:54ch}
+.ft-tag{font-family:var(--serif);font-style:italic;font-size:28px;line-height:1.1;color:var(--gold-hi);margin-top:16px}

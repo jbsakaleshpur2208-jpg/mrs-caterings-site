@@ -28,6 +28,7 @@
     footer.outerHTML = `<footer style="padding:60px 0 38px"><div class="wrap">
       <div class="foot-grid">
         <div><a href="index.html" class="brand" aria-label="Kaviarasan's MRS Caterings, home"><img src="assets/img/logo.png" alt="Kaviarasan's MRS Caterings" width="498" height="339"></a>
+          <p class="ft-tag">Passionate to delight</p>
           <p style="margin-top:18px;max-width:34ch;font-size:14px">Kaviarasan's MRS Caterings, founded by Dr. M.R. Srinivasan. Premium wedding and event catering across Tamil Nadu.</p></div>
         <div><h5>Explore</h5>${PAGES.map(([h, t]) => `<a href="${h}">${t}</a>`).join('')}</div>
         <div><h5>Reach us</h5><a href="tel:+919965555317">${PHONE1}</a><a href="tel:+919842755317">${PHONE2}</a>
