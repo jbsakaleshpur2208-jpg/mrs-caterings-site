@@ -1,0 +1,276 @@
+{
+ "source": "local-seed",
+ "updated": "2026-11-04",
+ "items": [
+  {
+   "id": "local-15",
+   "type": "reel",
+   "category": "feast",
+   "src": "assets/video/r15.mp4",
+   "poster": "assets/poster/r15.jpg",
+   "permalink": "https://www.instagram.com/mrs_caterings/",
+   "caption": "Idli on the leaf",
+   "timestamp": null
+  },
+  {
+   "id": "local-20",
+   "type": "reel",
+   "category": "feast",
+   "src": "assets/video/r20.mp4",
+   "poster": "assets/poster/r20.jpg",
+   "permalink": "https://www.instagram.com/mrs_caterings/",
+   "caption": "Self-serve counter",
+   "timestamp": null
+  },
+  {
+   "id": "local-04",
+   "type": "reel",
+   "category": "feast",
+   "src": "assets/video/r04.mp4",
+   "poster": "assets/poster/r04.jpg",
+   "permalink": "https://www.instagram.com/mrs_caterings/",
+   "caption": "Welcome drink",
+   "timestamp": null
+  },
+  {
+   "id": "local-26",
+   "type": "reel",
+   "category": "feast",
+   "src": "assets/video/r26.mp4",
+   "poster": "assets/poster/r26.jpg",
+   "permalink": "https://www.instagram.com/mrs_caterings/",
+   "caption": "The full leaf",
+   "timestamp": null
+  },
+  {
+   "id": "local-06",
+   "type": "reel",
+   "category": "feast",
+   "src": "assets/video/r06.mp4",
+   "poster": "assets/poster/r06.jpg",
+   "permalink": "https://www.instagram.com/mrs_caterings/",
+   "caption": "Banana-leaf row",
+   "timestamp": null
+  },
+  {
+   "id": "local-23",
+   "type": "reel",
+   "category": "feast",
+   "src": "assets/video/r23.mp4",
+   "poster": "assets/poster/r23.jpg",
+   "permalink": "https://www.instagram.com/mrs_caterings/",
+   "caption": "Served hot",
+   "timestamp": null
+  },
+  {
+   "id": "local-18",
+   "type": "reel",
+   "category": "feast",
+   "src": "assets/video/r18.mp4",
+   "poster": "assets/poster/r18.jpg",
+   "permalink": "https://www.instagram.com/mrs_caterings/",
+   "caption": "Guests at the feast",
+   "timestamp": null
+  },
+  {
+   "id": "local-25",
+   "type": "reel",
+   "category": "feast",
+   "src": "assets/video/r25.mp4",
+   "poster": "assets/poster/r25.jpg",
+   "permalink": "https://www.instagram.com/mrs_caterings/",
+   "caption": "Savouring the meal",
+   "timestamp": null
+  },
+  {
+   "id": "local-03",
+   "type": "reel",
+   "category": "event",
+   "src": "assets/video/r03.mp4",
+   "poster": "assets/poster/r03.jpg",
+   "permalink": "https://www.instagram.com/mrs_caterings/",
+   "caption": "Digital menu board",
+   "timestamp": null
+  },
+  {
+   "id": "local-14",
+   "type": "reel",
+   "category": "kitchen",
+   "src": "assets/video/r14.mp4",
+   "poster": "assets/poster/r14.jpg",
+   "permalink": "https://www.instagram.com/mrs_caterings/",
+   "caption": "Live dosa",
+   "timestamp": null
+  },
+  {
+   "id": "local-07",
+   "type": "reel",
+   "category": "kitchen",
+   "src": "assets/video/r07.mp4",
+   "poster": "assets/poster/r07.jpg",
+   "permalink": "https://www.instagram.com/mrs_caterings/",
+   "caption": "Hand-rolled",
+   "timestamp": null
+  },
+  {
+   "id": "local-02",
+   "type": "reel",
+   "category": "kitchen",
+   "src": "assets/video/r02.mp4",
+   "poster": "assets/poster/r02.jpg",
+   "permalink": "https://www.instagram.com/mrs_caterings/",
+   "caption": "Fresh snacks, made to order",
+   "timestamp": null
+  },
+  {
+   "id": "local-11",
+   "type": "reel",
+   "category": "kitchen",
+   "src": "assets/video/r11.mp4",
+   "poster": "assets/poster/r11.jpg",
+   "permalink": "https://www.instagram.com/mrs_caterings/",
+   "caption": "Fresh samosas",
+   "timestamp": null
+  },
+  {
+   "id": "local-22",
+   "type": "reel",
+   "category": "kitchen",
+   "src": "assets/video/r22.mp4",
+   "poster": "assets/poster/r22.jpg",
+   "permalink": "https://www.instagram.com/mrs_caterings/",
+   "caption": "Crisp papad",
+   "timestamp": null
+  },
+  {
+   "id": "local-17",
+   "type": "reel",
+   "category": "people",
+   "src": "assets/video/r17.mp4",
+   "poster": "assets/poster/r17.jpg",
+   "permalink": "https://www.instagram.com/mrs_caterings/",
+   "caption": "Our host",
+   "timestamp": null
+  },
+  {
+   "id": "local-16",
+   "type": "reel",
+   "category": "kitchen",
+   "src": "assets/video/r16.mp4",
+   "poster": "assets/poster/r16.jpg",
+   "permalink": "https://www.instagram.com/mrs_caterings/",
+   "caption": "Live pasta",
+   "timestamp": null
+  },
+  {
+   "id": "local-00",
+   "type": "reel",
+   "category": "event",
+   "src": "assets/video/r00.mp4",
+   "poster": "assets/poster/r00.jpg",
+   "permalink": "https://www.instagram.com/mrs_caterings/",
+   "caption": "Buffet walkthrough",
+   "timestamp": null
+  },
+  {
+   "id": "local-01",
+   "type": "reel",
+   "category": "event",
+   "src": "assets/video/r01.mp4",
+   "poster": "assets/poster/r01.jpg",
+   "permalink": "https://www.instagram.com/mrs_caterings/",
+   "caption": "Wedding stage",
+   "timestamp": null
+  },
+  {
+   "id": "local-05",
+   "type": "reel",
+   "category": "event",
+   "src": "assets/video/r05.mp4",
+   "poster": "assets/poster/r05.jpg",
+   "permalink": "https://www.instagram.com/mrs_caterings/",
+   "caption": "Temple venue",
+   "timestamp": null
+  },
+  {
+   "id": "local-21",
+   "type": "reel",
+   "category": "event",
+   "src": "assets/video/r21.mp4",
+   "poster": "assets/poster/r21.jpg",
+   "permalink": "https://www.instagram.com/mrs_caterings/",
+   "caption": "Menu card",
+   "timestamp": null
+  },
+  {
+   "id": "local-24",
+   "type": "reel",
+   "category": "event",
+   "src": "assets/video/r24.mp4",
+   "poster": "assets/poster/r24.jpg",
+   "permalink": "https://www.instagram.com/mrs_caterings/",
+   "caption": "Reception hall",
+   "timestamp": null
+  },
+  {
+   "id": "local-19",
+   "type": "reel",
+   "category": "feast",
+   "src": "assets/video/r19.mp4",
+   "poster": "assets/poster/r19.jpg",
+   "permalink": "https://www.instagram.com/mrs_caterings/",
+   "caption": "Feast service",
+   "timestamp": null
+  },
+  {
+   "id": "local-12",
+   "type": "reel",
+   "category": "event",
+   "src": "assets/video/r12.mp4",
+   "poster": "assets/poster/r12.jpg",
+   "permalink": "https://www.instagram.com/mrs_caterings/",
+   "caption": "Serving counter",
+   "timestamp": null
+  },
+  {
+   "id": "local-13",
+   "type": "reel",
+   "category": "people",
+   "src": "assets/video/r13.mp4",
+   "poster": "assets/poster/r13.jpg",
+   "permalink": "https://www.instagram.com/mrs_caterings/",
+   "caption": "Service team",
+   "timestamp": null
+  },
+  {
+   "id": "local-10",
+   "type": "reel",
+   "category": "people",
+   "src": "assets/video/r10.mp4",
+   "poster": "assets/poster/r10.jpg",
+   "permalink": "https://www.instagram.com/mrs_caterings/",
+   "caption": "We serve quality",
+   "timestamp": null
+  },
+  {
+   "id": "local-08",
+   "type": "reel",
+   "category": "people",
+   "src": "assets/video/r08.mp4",
+   "poster": "assets/poster/r08.jpg",
+   "permalink": "https://www.instagram.com/mrs_caterings/",
+   "caption": "Happy clients",
+   "timestamp": null
+  },
+  {
+   "id": "local-09",
+   "type": "reel",
+   "category": "event",
+   "src": "assets/video/r09.mp4",
+   "poster": "assets/poster/r09.jpg",
+   "permalink": "https://www.instagram.com/mrs_caterings/",
+   "caption": "Banquet hall",
+   "timestamp": null
+  }
+ ]
+}
