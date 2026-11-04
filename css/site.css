@@ -353,3 +353,6 @@ body{font-weight:400}
 .tagline .tq em{color:var(--gold-hi);font-weight:400}
 .tagline .lead{margin:0 auto;max-width:54ch}
 .ft-tag{font-family:var(--serif);font-style:italic;font-size:28px;line-height:1.1;color:var(--gold-hi);margin-top:16px}
+.hero-tag{letter-spacing:.26em;line-height:1.5}
+.hero h1{margin-top:4px}
+@media (max-width:620px){.hero-tag{letter-spacing:.18em;font-size:12px}}
